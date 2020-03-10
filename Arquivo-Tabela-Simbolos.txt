@@ -1,0 +1,6 @@
+a id var integer
+b id var integer
+c id var integer
+d id var real
+temp1 id var integer
+temp2 id var integer
