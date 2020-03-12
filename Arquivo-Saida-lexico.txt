@@ -13,14 +13,7 @@ real real 3 3
 if if 4 0
 id a 4 3
 then then 4 5
-if if 4 10
-id b 4 13
-+ + 4 15
-id c 4 17
-then then 4 19
-id c 4 24
-:= := 4 25
-id a 4 27
-+ + 4 28
-id b 4 29
+id a 4 10
+:= := 4 11
+id c 4 14
 fim

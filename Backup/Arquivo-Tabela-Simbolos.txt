@@ -1,4 +1,0 @@
-a id var integer
-b id var integer
-c id var integer
-d id var real

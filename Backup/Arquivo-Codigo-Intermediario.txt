@@ -1,6 +1,0 @@
-1: [JF a 6 -]
-2: [+ b c temp1]
-3: [JF temp1 6 -]
-4: [+ a b temp2]
-5: [:= c temp2 -]
-6: [...]

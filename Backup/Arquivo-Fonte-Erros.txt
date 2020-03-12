@@ -1,4 +1,0 @@
-var
- a, b, c: integer;
- d:real
-if a then if b + c then c:=a+b
